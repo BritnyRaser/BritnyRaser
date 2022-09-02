@@ -3,13 +3,13 @@
 ![Background_1](https://user-images.githubusercontent.com/64097684/188179747-3369bf29-eda9-467c-8589-8964379c97f2.png)
 
 <h1 align="center">Hi 👋, I'm Britny Raser</h1>
-<h3 align="center">I'm excited to learn AWS and other services that help build 3-tier architecture</h3>
+<h3 align="center">I'm excited to learn AWS and other services that will help me build 3-tier architecture</h3>
 <!-- https://gfycat.com/shortacclaimedeskimodog -->
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ShortAcclaimedEskimodog-size_restricted.gif">
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Python and AWS Developer Associate Certificate**
+- 🌱 I’m currently advancing my knowledge by learning **Python, Docker, and AWS Developer Associate Certificate**
 
 - 📫 How to reach me **raserb@gmail.com**
 
