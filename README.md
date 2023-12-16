@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Britny Raser</h1>
 <h3 align="center">I'm excited to learn AWS and other services that will help me build 3-tier architecture</h3>
 <!-- https://gfycat.com/shortacclaimedeskimodog -->
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ShortAcclaimedEskimodog-size_restricted.gif">
-<img align="right" alt="Coding" width="400" src="https://https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 - 🔭 I’m currently working on **Python Projects**
 
 - 🌱 I’m currently advancing my knowledge by learning **Python, Docker, and AWS Developer Associate Certificate**
