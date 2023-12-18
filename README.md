@@ -1,7 +1,7 @@
 <!-- YouTube I followed https://www.youtube.com/watch?v=G-EGDH50hGE -->
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
-![Banner_github](https://github.com/BritnyRaser/BritnyRaser/assets/64097684/8148f598-a0e2-45b5-80e4-c4cfcb3f8759)
-
+![Banner_githubNarrow](https://github.com/BritnyRaser/BritnyRaser/assets/64097684/e123d17f-5aa6-415e-87c0-73f57aac5fdf)
+<!-- Photo by Ian Schneider on Unsplash.com "Snow trees on trail" -->
 
 <h1 align="center">Hi 👋, I'm Britny Raser</h1>
 <h3 align="center">I'm excited to learn AWS and other services that will help me build 3-tier architecture</h3>
